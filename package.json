@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "argv": "^0.0.2",
+    "learnyounode": "^4.2.2"
+  }
+}
